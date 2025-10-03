@@ -26,11 +26,13 @@ social: false # includes social icons at the bottom of the page
 
 ## Contents
 
+- [Key Dates](#key-dates)
+  - [Contents](#contents)
 - [ICLR 2026 Blogposts Track](#iclr-2026-blogposts-track)
   - [A Call for Blog Posts](#a-call-for-blog-posts)
-    - [Conflict of interest](#conflict-of-interest)
+      - [Conflict of interest](#conflict-of-interest)
   - [Publication](#publication)
-    - [Poster](#poster)
+      - [Poster](#poster)
   - [Submissions](#submissions)
   - [Contact](#contact)
   - [Organizers](#organizers)
@@ -85,6 +87,8 @@ The posts will be created and published under a unified template; see [the submi
 #### Poster
 
 Additionally, accepted posts will have the option to present their work as a poster during the main poster session. For more information about the main poster session (time, poster format, etc.) please refer to the ICLR homepage.
+
+This should not be here!
 
 ## Submissions
 
