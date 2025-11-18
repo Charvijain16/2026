@@ -105,6 +105,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/mcot-sketching/";
           
         },
+      },{id: "post-from-reinforce-to-dr-grpo-a-unified-perspective-on-llm-post-training",
+        
+          title: "From REINFORCE to Dr. GRPO: A Unified Perspective on LLM Post-Training",
+        
+        description: "Recently, many reinforcement learning (RL) algorithms have been applied to improve the post-training of large language models (LLMs). In this article, we aim to provide a unified perspective on the objectives of these RL algorithms, exploring how they relate to each other through the Policy Gradient Theorem — the fundamental theorem of policy gradient methods.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/llm-post-training/";
+          
+        },
       },{id: "post-sample-blog-post",
         
           title: "Sample Blog Post",
