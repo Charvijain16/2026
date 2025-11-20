@@ -94,6 +94,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/sac-massive-sim/";
           
         },
+      },{id: "post-language-as-a-window-into-the-mind-how-nlp-and-llms-advance-human-sciences",
+        
+          title: "Language as a Window Into the Mind: How NLP and LLMs Advance Human...",
+        
+        description: "Can NLP predict heroin-addiction outcomes, uncover suicide risk, or simulate and even influence brain activity? Could LLMs one day contribute to research worthy of a Nobel Prize for advancing our understanding of human behavior? And what role do NLP and LLM scientists play in shaping this emerging reality? This post explores these questions, arguing that language technologies are not just tools that support scientific work (like literature-search agents, writing tools, coding assistants, and automatic scientific discovery), but that by treating language as a window into the human mind, models of language can actively help researchers uncover mechanisms of human behavior, cognition, and brain function.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/nlp-for-human-sciences/";
+          
+        },
       },{id: "post-do-language-models-really-learn-to-mislead-humans-via-rlhf",
         
           title: "Do Language Models Really Learn to Mislead Humans via RLHF?",
