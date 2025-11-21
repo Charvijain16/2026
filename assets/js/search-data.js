@@ -105,6 +105,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/nlp-for-human-sciences/";
           
         },
+      },{id: "post-model-misspecification-in-simulation-based-inference-recent-advances-and-open-challenges",
+        
+          title: "Model Misspecification in Simulation-Based Inference - Recent Advances and Open Challenges",
+        
+        description: "Model misspecification is a critical challenge in simulation-based inference (SBI), particularly in neural SBI methods that use simulated data to train flexible neural density estimators. These methods typically assume that simulators faithfully represent the true data-generating process, an assumption that is often violated in practice. Resulting discrepancies can make observed data effectively out-of-distribution relative to the simulations, leading to biased posterior distributions and misleading uncertainty quantification. This post reviews recent work on model misspecification in neural SBI, covering formal definitions, methods for detection and mitigation, and their underlying assumptions. It also discusses practical implications for SBI workflows and outlines open challenges for developing robust SBI methods that remain reliable in realistic, imperfectly specified applications.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/model-misspecification-in-sbi/";
+          
+        },
       },{id: "post-do-language-models-really-learn-to-mislead-humans-via-rlhf",
         
           title: "Do Language Models Really Learn to Mislead Humans via RLHF?",
