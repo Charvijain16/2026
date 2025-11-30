@@ -237,6 +237,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/evalcards/";
           
         },
+      },{id: "post-elastic-weight-consolidation-ewc-nuts-and-bolts",
+        
+          title: "Elastic Weight Consolidation (EWC): Nuts and Bolts",
+        
+        description: "A theoretical deep-dive into the Elastic Weight Consolidation method for continual learning, explaining the mathematical foundations and intuitions behind this influential approach to preventing catastrophic forgetting.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/elastic-weight-consolidation-nuts-bolts/";
+          
+        },
       },{id: "post-ai-fundamentals-valuing-ai-agents-amp-data-assets",
         
           title: "AI Fundamentals: Valuing AI Agents &amp; Data Assets",
