@@ -325,17 +325,6 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/diffusion-inverse-problems/";
           
         },
-      },{id: "post-from-u-nets-to-dits-the-architectural-evolution-of-text-to-image-diffusion-models-2021-2025",
-        
-          title: "From U-Nets to DiTs: The Architectural Evolution of Text-to-Image Diffusion Models (2021–2025)",
-        
-        description: "A comprehensive analysis of how diffusion model architectures evolved from U-Net backbones to Diffusion Transformers, transforming text-to-image generation capabilities.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/diffusion-architecture-evolution/";
-          
-        },
       },{id: "post-defining-and-quantifying-compositional-structure",
         
           title: "Defining and quantifying compositional structure",
@@ -367,6 +356,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/budget-alignment/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2025/2026-04-27-remote-sensing-foundation-models-to-world-models/";
           
         },
       },{id: "books-the-godfather",
