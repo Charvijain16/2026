@@ -237,17 +237,6 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/measuregen/";
           
         },
-      },{id: "post-from-reinforce-to-dr-grpo-a-unified-perspective-on-llm-post-training",
-        
-          title: "From REINFORCE to Dr. GRPO: A Unified Perspective on LLM Post-Training",
-        
-        description: "Recently, many reinforcement learning (RL) algorithms have been applied to improve the post-training of large language models (LLMs). In this article, we aim to provide a unified perspective on the objectives of these RL algorithms, exploring how they relate to each other through the Policy Gradient Theorem — the fundamental theorem of policy gradient methods.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/llm-post-training/";
-          
-        },
       },{id: "post-are-dilemmas-and-conflicts-in-llm-alignment-solvable-a-view-from-priority-graph",
         
           title: "Are Dilemmas and Conflicts in LLM Alignment Solvable? A View from Priority Graph...",
@@ -301,6 +290,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/flow-map-learning/";
+          
+        },
+      },{id: "post-understanding-and-fixing-bottlenecks-in-state-space-models-what-recency-and-over-smoothing-tell-us",
+        
+          title: "Understanding and Fixing Bottlenecks in State Space Models: What Recency and Over-Smoothing Tell...",
+        
+        description: "This work analyzes how recency bias and hidden-state over-smoothing emerge in modern State Space Models, revealing the bottlenecks that limit their ability to capture long-range dependencies.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/fixing-bottlenecks-in-state-space-models/";
           
         },
       },{id: "post-the-effect-of-feature-resolution-on-embedding-dimension",
