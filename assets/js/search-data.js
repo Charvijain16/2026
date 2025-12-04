@@ -314,17 +314,6 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/elastic-weight-consolidation-nuts-bolts/";
           
         },
-      },{id: "post-ai-fundamentals-valuing-ai-agents-amp-data-assets",
-        
-          title: "AI Fundamentals: Valuing AI Agents &amp; Data Assets",
-        
-        description: "Large Language Model (LLM) agents now read the world through managed-context pipelines, write to it via tool-calling APIs, and continuously re-wire themselves with fresh experience. Stakeholders therefore need a Generally Accepted Accounting Principles (GAAP) compatible method to price both (i) the agent&#39;s labour-like output and (ii) the data traces that fuel learning. We formalise a single unifying metric - agent Economic Value (AEV)- and demonstrate that these metrics are measurable today. We then extend the template to reinforcement-learning regimes in which grounded rewards equal cash flows. Lastly, we propose a financial settlement layer, which transforms the agent from a passive software user into an active economic participant.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/economic-agents/";
-          
-        },
       },{id: "post-sample-blog-post",
         
           title: "Sample Blog Post",
@@ -400,6 +389,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/beyond-the-rerun/";
+          
+        },
+      },{id: "post-a-human-centric-framework-for-debating-the-ethics-of-ai-consciousness-under-uncertainty",
+        
+          title: "A Human-centric Framework for Debating the Ethics of AI Consciousness Under Uncertainty",
+        
+        description: "As AI systems become increasingly sophisticated, questions about machine consciousness and its ethical implications have moved from fringe speculation to mainstream academic debate. We address these limitations through a structured three-level framework grounded in philosophical uncertainty.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/a-human-centric-framework-for-debating-the-ethics-of-ai-consciousness-under-uncertainty/";
           
         },
       },{id: "books-the-godfather",
