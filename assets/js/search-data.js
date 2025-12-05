@@ -314,6 +314,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/dissonant-machine/";
           
         },
+      },{id: "post-discretisation-invariance",
+        
+          title: "Discretisation invariance",
+        
+        description: "Discretisation invariance, a recent innovation in scientific machine learning, is a requirement that ensures an architecture can process inputs of different resolutions. In this post, we formally define this property, provide examples, generate datasets, train architectures, and discuss whether discretisation invariance is living up to its promise.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/discretisation-invariance/";
+          
+        },
       },{id: "post-navigating-the-manifold-a-geometric-perspective-on-diffusion-based-inverse-problems",
         
           title: "Navigating the Manifold — A Geometric Perspective on Diffusion-Based Inverse Problems",
