@@ -226,6 +226,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/performative-prediction/";
           
         },
+      },{id: "post-neural-audio-codecs-how-to-get-audio-into-llms",
+        
+          title: "Neural audio codecs: how to get audio into LLMs",
+        
+        description: "A look at why audio is harder to model than text and how we can make it easier with neural audio codecs. With a codec, we can turn audio into larger discrete tokens, train models to predict continuations for these tokens, and then decode those back into audio.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/neural-audio-codecs/";
+          
+        },
       },{id: "post-misalignments-and-rl-failure-modes-in-the-early-stage-of-superintelligence",
         
           title: "Misalignments and RL Failure Modes in the Early Stage of Superintelligence",
@@ -279,17 +290,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/feature-reduction/";
-          
-        },
-      },{id: "post-evalcards-for-standardized-evaluation-reporting",
-        
-          title: "EvalCards for Standardized Evaluation Reporting",
-        
-        description: "In the age of rapidly released LLMs, evaluation reporting is fragmented, inconsistent, and often misleading. We surveyed the landscape and found three critical crises—reproducibility, accessibility, and governance—that Model Cards alone can&#39;t solve. Our solution? EvalCards-- lightweight, standardized evaluation summaries that are easy to write, easy to understand, and impossible to miss. EvalCards are designed to enhance transparency for both researchers and practitioners while providing a practical foundation to meet emerging governance requirements.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/evalcards/";
           
         },
       },{id: "post-elastic-weight-consolidation-ewc-nuts-and-bolts",
