@@ -248,6 +248,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/genai-archaeology/";
           
         },
+      },{id: "post-quot-how-to-transition-from-ml-to-dl-in-production-lessons-from-the-trenches-at-company-quot",
+        
+          title: "[&quot;How to Transition from ML to DL in Production - Lessons From the...",
+        
+        description: "[&quot;A large and mature gradient-boosted tree model had been powering Company’s fraud detection for years. We gradually migrated to a pure deep learning model over the past year going through a heterogeneous stacking phase that reached parity before outperforming our boosting model in production. We learned along the way that a simple ResNet can beat sophisticated tabular DL architectures at million-scale (1); stacking is a practical bridge from ML to DL (2); and the biggest wins from DL are often beyond metrics (3).&quot;]",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/from-ml-to-dl/";
+          
+        },
       },{id: "post-from-trajectories-to-operators-a-unified-flow-map-perspective-on-generative-modeling",
         
           title: "From Trajectories to Operators — A Unified Flow Map Perspective on Generative Modeling...",
@@ -279,17 +290,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/feature-reduction/";
-          
-        },
-      },{id: "post-elastic-weight-consolidation-ewc-nuts-and-bolts",
-        
-          title: "Elastic Weight Consolidation (EWC): Nuts and Bolts",
-        
-        description: "A theoretical deep-dive into the Elastic Weight Consolidation method for continual learning, explaining the mathematical foundations and intuitions behind this influential approach to preventing catastrophic forgetting.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/elastic-weight-consolidation-nuts-bolts/";
           
         },
       },{id: "post-your-moe-model-does-not-have-to-select-fixed-number-of-experts",
