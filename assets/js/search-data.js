@@ -217,9 +217,9 @@ ninja.data = [{
         },
       },{id: "post-the-illusion-of-mastery-breaking-the-cycle-of-benchmark-memorization-with-generative-evaluation",
         
-          title: "The illusion of mastery: Breaking the Cycle of Benchmark Memorization with Generative Evaluation...",
+          title: "The Illusion of Mastery: Breaking the Cycle of Benchmark Memorization with Generative Evaluation...",
         
-        description: "Static evaluation traps LLMs in a cycle of overfitting, leading to inflated benchmark scores but fragile real-world performance. This post argues for a paradigm shift to generative evaluation, a dynamic engine that creates infinite novel tasks. By targeting unseen reasoning patterns and high-impact corner cases, it moves beyond memorization to genuinely measure and incentivize the generalizable intelligence required for AGI.",
+        description: "Modern AI models that score perfectly on standardized benchmarks often fail in real-world applications. In this post, we first examine why current evaluation paradigms increasingly fail to capture how models perform in real-world scenarios, leading to an illusion of competence. Then, we introduce generative evaluation that automatically creates novel, diverse tasks every time a model is tested, and explain how it offers a more realistic way to measure what AI systems can actually do.",
         section: "Posts",
         handler: () => {
           
