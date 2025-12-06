@@ -259,17 +259,6 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/fixing-bottlenecks-in-state-space-models/";
           
         },
-      },{id: "post-the-effect-of-feature-resolution-on-embedding-dimension",
-        
-          title: "The effect of feature resolution on embedding dimension",
-        
-        description: "High-dimensional data can be compressed into lower-dimensional embeddings while retaining a relatively large amount of relevant information, a phenomenon which, despite its widespread use, we struggle to fully explain. In this post, we use a common property of datasets - a limit on the number of features per data point - to show how a slight uniform dependence between features can be exploited to reduce the required dimensions by at least a third, while sacrificing no information about the features. To do so, we introduce the concepts of dataset resolution and feature composition of a dataset, and analyse how a set of orderings of the dataset affect the types of partitions we can create of the dataset.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/feature-reduction/";
-          
-        },
       },{id: "post-are-llm-agent-populations-really-emergent-a-comprehensive-perspective",
         
           title: "Are LLM Agent Populations Really Emergent? A Comprehensive Perspective",
@@ -378,6 +367,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/auto-calibration/";
+          
+        },
+      },{id: "post-the-adversarial-conditioning-paradox-why-attacked-inputs-are-more-stable-not-less",
+        
+          title: "The Adversarial Conditioning Paradox: Why Attacked Inputs Are More Stable, Not Less",
+        
+        description: "Adversarial inputs exhibit systematically lower Jacobian condition numbers at early transformer layers—the opposite of our initial hypothesis that attacks exploit unstable regions. This paradox reveals that adversarial attacks succeed by finding well-conditioned directions that cross decision boundaries.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/adversarial-conditioning-paradox/";
           
         },
       },{id: "post-a-human-centric-framework-for-debating-the-ethics-of-ai-consciousness-under-uncertainty",
