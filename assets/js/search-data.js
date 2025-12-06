@@ -142,7 +142,7 @@ ninja.data = [{
         
           title: "Artistic Style and the Play of Neural Style Representations",
         
-        description: "How do neural newtowrks percieve the complex human construct of artistic style? We explore the dynamic interplay between diverse machine representations of style and style definitions. We reveal a profound divergence where models often reject established historical narratives in favour of their own perceptual truths.",
+        description: "How do neural networks percieve the complex human construct of artistic style? We explore the dynamic interplay between diverse machine representations of style and style definitions. We reveal a profound divergence where models often reject established historical narratives in favour of their own perceptual truths.",
         section: "Posts",
         handler: () => {
           
