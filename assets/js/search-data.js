@@ -182,6 +182,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/sparsity/";
           
         },
+      },{id: "post-scaling-online-rlvr-done-right-with-decoupled-generation-amp-optimization",
+        
+          title: "Scaling Online RLVR Done Right with Decoupled Generation &amp; Optimization",
+        
+        description: "Reinforcement Learning with Verifiable Rewards (RLVR) optimizes large language models on tasks with objective correctness criteria by directly leveraging deterministic reward signals rather than learned preferences. While theoretically principled, online RLVR remains computationally prohibitive due to tight coupling of generation and optimization, which inflates memory and severely limits training throughput. We prove this gap is architectural, not fundamental. Online RLVR can be reformulated exactly as offline supervised fine-tuning with importance-weighted samples. We introduce Decoupled Generation &amp; Optimization (DGO), a two-phase paradigm that separates generation from optimization, reducing peak memory by ~18-31% and training time by ~75-85% while enabling multi-epoch training. Our framework unifies existing offline methods, exposes systematic theory-practice mismatches, and establishes DGO as the first method where theoretical optimal weights align perfectly with implementation. We show scaling online RLVR is achievable when done right, through principled decoupling and theoretically-grounded design.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/scaling-rlvr/";
+          
+        },
       },{id: "post-using-graph-neural-networks-in-reinforcement-learning-a-practical-guide",
         
           title: "Using Graph Neural Networks in Reinforcement Learning: A Practical Guide",
