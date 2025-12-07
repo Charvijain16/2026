@@ -358,6 +358,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/performative-prediction/";
           
         },
+      },{id: "post-there-is-no-in-timeseries-rethinking-tsfm-through-the-lens-of-invariance",
+        
+          title: "There is No 🍎 in Timeseries: Rethinking TSFM through the Lens of Invariance...",
+        
+        description: "Timeseries foundation models (TSFMs) are trained on scrape-everything-on-the-interet paradigm, yet the internet is only semantically complete for text and images, not for timeseries, leading to poor performance. It contains countless texts and images of 🍎, but there is no timeseries that captures the concept of 🍎. This mismatch calls for a different pretraining strategy for timeseries, and we argue that the correct organising principle is invariance.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/no-apple/";
+          
+        },
       },{id: "post-language-as-a-window-into-the-mind-how-nlp-and-llms-advance-human-sciences",
         
           title: "Language as a Window Into the Mind: How NLP and LLMs Advance Human...",
