@@ -15,7 +15,7 @@ authors:
     affiliations:
       name: ICLR 2026 Submission
 
-bibliography: 2026-04-27-boundlessness_overtaking_benchmarks.bib
+bibliography: 2026-04-27-boundlessness-overtaking-benchmarks.bib
 
 # Optionally, you can add a table of contents to your post.
 # NOTES:
