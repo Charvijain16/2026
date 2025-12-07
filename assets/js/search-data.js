@@ -252,7 +252,7 @@ ninja.data = [{
         
           title: "[&quot;How to Transition from ML to DL in Production - Lessons From the...",
         
-        description: "[&quot;A large and mature gradient-boosted tree model had been powering Company’s fraud detection for years. We gradually migrated to a pure deep learning model over the past year going through a heterogeneous stacking phase that reached parity before outperforming our boosting model in production. We learned along the way that a simple ResNet can beat sophisticated tabular DL architectures at million-scale (1); stacking is a practical bridge from ML to DL (2); and the biggest wins from DL are often beyond metrics (3).&quot;]",
+        description: "[&quot;A mature and entrenched boosting system has been powering Company’s risk systems for years. We outline our year long incremental migration strategy to a pure deep learning system which is highlighted by an intermediate heterogeneous ensembling phase used to reached parity and then outperforming our boosting model in production. We learned along the way that a simple MLPs can beat sophisticated tabular DL architectures at million-scale (1); ensembling is a practical bridge from ML to DL (2); and the biggest wins from DL are often beyond metrics (3).&quot;]",
         section: "Posts",
         handler: () => {
           
