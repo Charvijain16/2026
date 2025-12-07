@@ -534,11 +534,11 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/interpret-model/";
           
         },
-      },{id: "post-how-many-tokens-does-it-take-to-say-quot-नमस्ते-quot-a-dive-into-indic-tokenization",
+      },{id: "post-how-many-tokens-does-it-take-to-say-नमस्ते-a-dive-into-indic-tokenization",
         
-          title: "How many tokens does it take to say &quot;नमस्ते&quot;? A Dive into Indic...",
+          title: "How many tokens does it take to say “नमस्ते”? A Dive into Indic...",
         
-        description: "Tokenizers trained on English-dominant data often produce unusually high token counts for Indic languages. This &quot;tokenizer fertility&quot; increases sequence lengths, raises compute costs, and can hurt downstream performance, even when the underlying model is strong. In this post, we examine how fertility varies across major Indic scripts and how it affects language modeling quality, inference efficiency, and instruction-following behavior.",
+        description: "Tokenizers trained on English-dominant data often produce unusually high token counts for Indic languages. This &#39;tokenizer fertility&#39; increases sequence lengths, raises compute costs, and can hurt downstream performance, even when the underlying model is strong. In this post, we examine how fertility varies across major Indic scripts and how it affects language modeling quality, inference efficiency, and instruction-following behavior.",
         section: "Posts",
         handler: () => {
           
