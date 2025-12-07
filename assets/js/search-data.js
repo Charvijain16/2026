@@ -215,17 +215,6 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/interpret-model/";
           
         },
-      },{id: "post-the-illusion-of-mastery-breaking-the-cycle-of-benchmark-memorization-with-generative-evaluation",
-        
-          title: "The Illusion of Mastery: Breaking the Cycle of Benchmark Memorization with Generative Evaluation...",
-        
-        description: "Modern AI models that score perfectly on standardized benchmarks often fail in real-world applications. In this post, we first examine why current evaluation paradigms increasingly fail to capture how models perform in real-world scenarios, leading to an illusion of competence. Then, we introduce generative evaluation that automatically creates novel, diverse tasks every time a model is tested, and explain how it offers a more realistic way to measure what AI systems can actually do.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/illusion-of-mastery/";
-          
-        },
       },{id: "post-in-context-learning-of-representations-can-be-explained-by-induction-circuits",
         
           title: "In-context learning of representations can be explained by induction circuits",
@@ -274,7 +263,7 @@ ninja.data = [{
         
           title: "Your MoE Model Does Not Have to Select Fixed Number of Experts",
         
-        description: "Standard Mixture-of-Experts (MoE) models adopt fixed top-k routing, applying uniform computation across tokens regardless of their complexity. This rigidity often leads to suboptimal efficiency and performance. Dynamic routing addresses this by adaptively selecting the optimal number of experts for each token. This post introduces the principles of dynamic routing and reviews key techniques for flexible expert allocation.",
+        description: "Standard Mixture-of-Experts (MoE) models adopt fixed top-k routing, applying uniform computation across tokens regardless of their complexity. This rigidity often leads to suboptimal efficiency and performance, and dynamic routing could address this by adaptively selecting the optimal number of experts for each token. This post introduces the principles of dynamic routing and reviews key techniques for flexible expert allocation.",
         section: "Posts",
         handler: () => {
           
