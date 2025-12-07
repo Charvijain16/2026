@@ -204,6 +204,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/neural-audio-codecs/";
           
         },
+      },{id: "post-the-layered-ontology-of-models-resolving-the-epistemological-crisis-of-ai",
+        
+          title: "The Layered Ontology of Models, Resolving the Epistemological Crisis of AI",
+        
+        description: "We propose a five-layer model framework and discuss the concepts of Meaning and Truth in the era of large models through two thought experiments.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/layered-ontology-model/";
+          
+        },
       },{id: "post-how-to-open-the-black-box-amp-58-modern-models-for-mechanistic-interpretability",
         
           title: "How To Open the Black Box&amp;#58 Modern Models for Mechanistic Interpretability",
@@ -334,17 +345,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/adversarial-conditioning-paradox/";
-          
-        },
-      },{id: "post-a-human-centric-framework-for-debating-the-ethics-of-ai-consciousness-under-uncertainty",
-        
-          title: "A Human-centric Framework for Debating the Ethics of AI Consciousness Under Uncertainty",
-        
-        description: "As AI systems become increasingly sophisticated, questions about machine consciousness and its ethical implications have moved from fringe speculation to mainstream academic debate. We address these limitations through a structured three-level framework grounded in philosophical uncertainty.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/a-human-centric-framework-for-debating-the-ethics-of-ai-consciousness-under-uncertainty/";
           
         },
       },{id: "post-",
