@@ -72,18 +72,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "https://iclr-blog-track.github.io/home/";
               },
-            },{id: "post-visual-reversal-curse-from-general-domain-to-remote-sensing-images",
-        
-          title: "Visual Reversal Curse: From General Domain to Remote Sensing Images",
-        
-        description: "The &#39;Reversal Curse&#39; highlights a fundamental limitation in AI: models often fail to infer inverse relationships. This post investigates whether this curse extends to Vision Foundation Models and proposes remote sensing image translation as the optimal testbed for evaluating bidirectional visual generalization.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/visual-reversal-curse-from-general-domain-to-remote-sensing-images/";
-          
-        },
-      },{id: "post-visualizing-llm-latent-space-geometry-through-dimensionality-reduction",
+            },{id: "post-visualizing-llm-latent-space-geometry-through-dimensionality-reduction",
         
           title: "Visualizing LLM Latent Space Geometry Through Dimensionality Reduction",
         
@@ -92,17 +81,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/vis-llm-latent-geometry/";
-          
-        },
-      },{id: "post-from-dense-monoliths-to-modular-minds-the-rise-of-symbolic-routing-in-llms",
-        
-          title: "From Dense Monoliths to Modular Minds: The Rise of Symbolic Routing in LLMs...",
-        
-        description: "The history of Artificial Intelligence (AI) has largely been defined by a dichotomy: the flexible, probabilistic learning of Connectionism versus the rigorous, compositional logic of Symbolism. However, the emergence of Large Language Models (LLMs) is fostering a synthesis of these paradigms through a fundamental architectural shift: the move from Dense Monoliths to Modular, Routed Systems. This shift is fractal. At the Macro level, LLMs function as central planners, using symbolic protocols to orchestrate external tools and specialized neural agents. Simultaneously, at the Micro level, the models themselves are evolving into sparse, modular structures (such as Mixture-of-Experts) governed by internal routing mechanisms. In this post, we explore this transition toward Symbolic Routing. We discuss how this paradigm enables us to build societies of neural agents, discover latent modularity within dense networks, thus enabling composable, verifiable, interpretable and continually learnable AI system. And we also discuss how to leverage these structures to synthesize training data and formally verify AI reasoning.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/symbolic-connect/";
           
         },
       },{id: "post-the-decoupling-hypothesis-attempting-subject-invariant-eeg-representation-learning-via-auxiliary-injection",
@@ -138,17 +116,6 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/spatial-awareness/";
           
         },
-      },{id: "post-don-39-t-look-up-every-token-escaping-quadratic-complexity-via-geometric-patterns-and-algorithms",
-        
-          title: "Don&#39;t Look Up (Every Token): Escaping Quadratic Complexity via Geometric Patterns and Algorithms",
-        
-        description: "Large Language Models (LLMs) have brought about a significant change in the field of artificial intelligence, where they have transitioned in scope from being specialized research tools to common resources that drive the next generation of software. With increasing model parameters and training data, LLMs demonstrate new abilities in reasoning, code generation, and solving complex problems that were once considered unattainable. However, scaling these models effectively for long-context applications uniquely poses a challenge. This is primarily due to the inherent limitations of the self-attention mechanism, which has quadratic time complexity. This quadratic bottleneck hinders applications for long documents, high-resolution images, and large codebases, among others. However, what is interesting to observe is that effectively only a few parameters are used in token computation, and most calculations are sparse. Hence, sparsity emerges as an effective solution to this problem. Rather than relying on the attention matrix, one can utilize an approximate or “sparse” version of attention to achieve almost the same results much faster. The backbone of this approach is the idea that tokens do not require the entire context; they only need local context, and thus, most of the computation carried out is wasteful. In this blog, we analyze the types of attention patterns that emerge and how to use them to our advantage for faster and efficient LLMs.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/sparsity/";
-          
-        },
       },{id: "post-scaling-online-rlvr-done-right-with-decoupled-generation-amp-optimization",
         
           title: "Scaling Online RLVR Done Right with Decoupled Generation &amp; Optimization",
@@ -169,6 +136,17 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/2026/blog/2026/rl-with-gnns/";
+          
+        },
+      },{id: "post-rethinking-the-diffusion-model-from-a-langevin-perspective",
+        
+          title: "Rethinking the Diffusion Model from a Langevin Perspective",
+        
+        description: "Diffusion models are often introduced from multiple perspectives—such as VAEs, score matching, or flow matching—accompanied by dense and technically demanding mathematics that can be difficult for beginners to grasp. This article offers a fresh Langevin perspective on diffusion models to lower the technical barrier, aiming to present diffusion models in a simpler, clearer, and more intuitive way while addressing the following questions 1. How does the reverse process invert the forward process to generate data from pure noise? 2. How can ODE-based and SDE-based diffusion models be unified under a single framework? 3. Why are diffusion models theoretically superior to ordinary VAEs? 4. How can Denoising, Score Matching, and Flow Matching training objectives be unified and derived from first principles? We demonstrate that the Langevin perspective offers clear and straightforward answers to these questions, providing pedagogical value for both learners and experienced researchers seeking deeper intuition.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/rethinking-diffusion-langevin/";
           
         },
       },{id: "post-dynamic-parameter-reuse-augments-reasoning-via-latent-chain-of-thought",
