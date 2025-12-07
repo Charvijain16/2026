@@ -446,17 +446,6 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/llm-conflicts/";
           
         },
-      },{id: "post-the-layered-ontology-of-models-resolving-the-epistemological-crisis-of-ai",
-        
-          title: "The Layered Ontology of Models, Resolving the Epistemological Crisis of AI",
-        
-        description: "We propose a five-layer model framework and discuss the concepts of Meaning and Truth in the era of large models through two thought experiments.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/2026/blog/2026/layered-ontology-model/";
-          
-        },
       },{id: "post-justrl-scaling-a-1-5b-llm-with-a-simple-rl-recipe",
         
           title: "JustRL: Scaling a 1.5B LLM with a Simple RL Recipe",
