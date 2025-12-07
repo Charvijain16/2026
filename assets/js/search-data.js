@@ -828,6 +828,17 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
+            window.location.href = "/2026/blog/2025/2026-04-27-philosophy-of-model-editing/";
+          
+        },
+      },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
             window.location.href = "/2026/blog/2025/2026-04-27-egraph-symreg/";
           
         },
