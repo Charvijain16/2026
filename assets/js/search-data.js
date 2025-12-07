@@ -347,6 +347,17 @@ ninja.data = [{
             window.location.href = "/2026/blog/2026/performative-prediction/";
           
         },
+      },{id: "post-there-is-no-quot-apple-quot-in-timeseries-quot-rethinking-tsfm-through-the-lens-of-invariance",
+        
+          title: "There is No &quot;apple&quot; in Timeseries&quot; Rethinking TSFM through the Lens of Invariance...",
+        
+        description: "Timeseries foundation models (TSFMs) have multiplied, yet lightweight supervised baselines and even classical models often match them. We argue this gap stems from the naïve importation of NLP/CV pipelines. In language and vision, large web-scale corpora densely capture human concepts, i.e., there are countless images and text of apples. In contrast, timeseries data is built to complement the image and text modalities. There are no timeseries datasets that contain the concept &quot;apple&quot;. As a result, the &quot;scrape everything online&quot; paradigm fails for TS. We posit that progress demands a shift from opportunistic aggregation to principled design: constructing datasets that systematically span the space of invariances that preserve temporal semantics. To this end, we suggest that the ontology of timeseries invariances should be built based on first principles. Only by ensuring representational completeness through invariance coverage can TSFMs achieve the aligned structure necessary for generalisation, reasoning, and truly emergent behaviour.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/2026/blog/2026/no-apple/";
+          
+        },
       },{id: "post-language-as-a-window-into-the-mind-how-nlp-and-llms-advance-human-sciences",
         
           title: "Language as a Window Into the Mind: How NLP and LLMs Advance Human...",
